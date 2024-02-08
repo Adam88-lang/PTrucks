@@ -3,8 +3,6 @@ using PTrucks.Models;
 using PTrucks.Data;
 using System.Collections.Generic;
 using System.Linq;
-using Newtonsoft.Json;
-
 namespace PTrucks.Controllers
 {
     public class DeviceLocationController : Controller
@@ -15,6 +13,21 @@ namespace PTrucks.Controllers
         {
             _context = dbContext;
         }
+
+        public IActionResult GetDeviceLocations()
+        {
+            var devices = _context.DeviceLocations
+                                  .OrderBy(d => d.MacAddress)
+                                  .Select(device => new
+                                  {
+                                      device.Latitude,
+                                      device.Longitude,
+                                      device.MacAddress
+                                  })
+                                  .ToList();
+            return Json(devices);
+        }
+
 
         public IActionResult Map()
         {

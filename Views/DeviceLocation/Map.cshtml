@@ -42,22 +42,31 @@
 @section Scripts {
     <script type="text/javascript">
         $(document).ready(function () {
-            var locations = @Html.Raw(Json.Serialize(Model.Select(device => new object[] { device.Latitude, device.Longitude, device.MacAddress })));
-
-            $('#activmap-container').activmap({
-                places: locations,
-                icon: '/images/icons/marker-car-blue.png', // Custom marker icon
-                map: {
-                    zoom: 10, // Adjustable zoom level
-                    center: { lat: 48.4657473, lng: -122.4411168 }, // Set default center of the map
+            $.ajax({
+                url: '@Url.Action("GetDeviceLocations", "DeviceLocationController")', // Update controller name if necessary
+                type: 'GET',
+                dataType: 'json',
+                success: function (locations) {
+                    $('#activmap-container').activmap({
+                        places: locations,
+                        icon: '/images/icons/marker-car-blue.png',
+                        map: {
+                            zoom: 10,
+                            center: { lat: 48.4657473, lng: -122.4411168 },
+                        },
+                        markerClicked: function (marker, place) {
+                            console.log(place);
+                        }
+                    });
                 },
-                markerClicked: function (marker, place) {
-                    // Optional: Action to take when a marker is clicked
-                    console.log(place); // Example action
+                error: function (error) {
+                    console.log('Error fetching device locations:', error);
                 }
             });
         });
     </script>
+}
+
 }
 
 }
