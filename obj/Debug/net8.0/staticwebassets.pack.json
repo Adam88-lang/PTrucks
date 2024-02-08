@@ -1,0 +1,565 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PTrucks\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PTrucks.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PTrucks.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\css\\activmap-compact.css",
+      "PackagePath": "staticwebassets\\css\\activmap-compact.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-bag-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-bag-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-ball-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-ball-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-ball.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-ball.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-bell-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-bell-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-car-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-car-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-car.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-car.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-center.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-center.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-coffee-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-coffee-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-coffee.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-coffee.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-diam-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-diam-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-diam.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-diam.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-ext-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-ext-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-ext.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-ext.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-eye-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-eye-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-eye.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-eye.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-food-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-food-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-food.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-food.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-grad-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-grad-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-grad.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-grad.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-h-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-h-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-h.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-h.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-health-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-health-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-health.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-health.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-hotel-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-hotel-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-hotel.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-hotel.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-market-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-market-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-market.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-market.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-museum-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-museum-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-museum.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-museum.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-shop-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-shop-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-shop.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-shop.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-star-blue.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-star-blue.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker-star.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker-star.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\icons\\marker.png",
+      "PackagePath": "staticwebassets\\images\\icons\\marker.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\mock-up.jpg",
+      "PackagePath": "staticwebassets\\images\\mock-up.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\mock-up.png",
+      "PackagePath": "staticwebassets\\images\\mock-up.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\big-ben.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\big-ben.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\british-museum.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\british-museum.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\cavendish-hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\cavendish-hotel.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\city-of-london-school.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\city-of-london-school.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\crowne-plaza.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\crowne-plaza.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\emirates-stadium.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\emirates-stadium.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\greensmiths.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\greensmiths.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\harrods.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\harrods.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\hilton-tower-bridge.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\hilton-tower-bridge.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\holland-barrett.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\holland-barrett.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\house-of-fraser.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\house-of-fraser.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\lfepa.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\lfepa.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\national-gallery.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\national-gallery.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\scotland-yard.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\scotland-yard.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\soho-fire-station.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\soho-fire-station.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\southwalk-fire-station.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\southwalk-fire-station.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\st-mary-hospital.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\st-mary-hospital.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\st-paul-cathedral.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\st-paul-cathedral.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\tower-bridge.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\tower-bridge.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\tower-of-london.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\tower-of-london.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\wellington-hospital.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\wellington-hospital.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\wembley-stadium.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\wembley-stadium.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\westminster-abbey.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\westminster-abbey.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\westminster-school.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\westminster-school.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\westminster.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\westminster.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\photos\\whole-foods-market.jpg",
+      "PackagePath": "staticwebassets\\images\\photos\\whole-foods-market.jpg"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\images\\thumb.png",
+      "PackagePath": "staticwebassets\\images\\thumb.png"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\js\\bootstrap-carousel.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-carousel.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\js\\jquery-activmap.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-activmap.min.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PTrucks\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PTrucks.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PTrucks.props",
+      "PackagePath": "build\\PTrucks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PTrucks.props",
+      "PackagePath": "buildMultiTargeting\\PTrucks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PTrucks.props",
+      "PackagePath": "buildTransitive\\PTrucks.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

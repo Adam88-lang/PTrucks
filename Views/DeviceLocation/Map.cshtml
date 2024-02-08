@@ -1,0 +1,64 @@
+﻿@model IEnumerable<PTrucks.Models.DeviceLocation>
+
+@{
+    ViewData["Title"] = "Map";
+}
+
+<h2>Device Locations</h2>
+
+<div id="activmap-container" style="width: 100%; height: 400px;"></div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mac Address</th>
+            <th>Device RSSI</th>
+            <th>Device Voltage</th>
+            <th>Satellite Count</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+            <th>Chassis</th>
+            <th>Last Heard Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var device in Model)
+        {
+            <tr>
+                <td>@device.MacAddress</td>
+                <td>@device.DeviceRSSI</td>
+                <td>@device.DeviceVoltage</td>
+                <td>@device.SatelliteCount</td>
+                <td>@device.Latitude</td>
+                <td>@device.Longitude</td>
+                <td>@device.Chassis</td>
+                <td>@device.LastHeardDate?.ToString("g")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var locations = @Html.Raw(Json.Serialize(Model.Select(device => new object[] { device.Latitude, device.Longitude, device.MacAddress })));
+
+            $('#activmap-container').activmap({
+                places: locations,
+                icon: '/images/icons/marker-car-blue.png', // Custom marker icon
+                map: {
+                    zoom: 10, // Adjustable zoom level
+                    center: { lat: 48.4657473, lng: -122.4411168 }, // Set default center of the map
+                },
+                markerClicked: function (marker, place) {
+                    // Optional: Action to take when a marker is clicked
+                    console.log(place); // Example action
+                }
+            });
+        });
+    </script>
+}
+
+}
+
