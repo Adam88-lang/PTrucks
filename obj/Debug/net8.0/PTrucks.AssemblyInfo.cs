@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PTrucks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc82c020cf6e1e98f26c884ec09095f04e87e6f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16aa523c498860864add900b28fb86bbaf0bdd9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PTrucks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PTrucks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
